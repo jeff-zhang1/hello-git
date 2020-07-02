@@ -1,1 +1,2 @@
- print('hello python & git tttsdfsdfdsf')
+# hi, this is comment 
+print('hello python & git tttsdfsdfdsf')
